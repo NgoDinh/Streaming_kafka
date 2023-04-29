@@ -1,0 +1,5 @@
+kafka-topics --create --topic kafka-arch partitions 1 -- replication-factor 1 --bootstrap-server PLAINTEXT://localhost:9092
+
+kafka-topics --create --bootstrap-server broker:9092 --partitions 1 --replication-factor 1 --topic Test
+kafka-console-producer --bootstrap-server localhost:9092 --topic Test
+kafka-topics --alter --bootstrap-server broker:9092 --partitions 3 --topic Test
