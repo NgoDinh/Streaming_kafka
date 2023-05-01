@@ -16,7 +16,7 @@ def create_topic(client, topic_name):
         [
             NewTopic(
                 topic=topic_name,
-                num_partitions=3,
+                num_partitions=1,
                 replication_factor=1,
                 config={
                     "cleanup.policy": "delete",
@@ -35,12 +35,12 @@ def create_topic(client, topic_name):
             print(f"failed to create topic {topic_name}: {e}")
 
 
-def main():
+def main(topic_name):
     print("start")
     """Checks for topic and creates the topic if it does not exist"""
     client = AdminClient({"bootstrap.servers": BROKER_URL})
 
-    topic_name = "udacity.ex.topic_create"
+    # topic_name = "udacity.ex.consumer"
     exists = topic_exists(client, topic_name)
     print(f"Topic {topic_name} exists: {exists}")
 
@@ -48,5 +48,5 @@ def main():
         create_topic(client, topic_name)
         # print(f"Topic {topic_name} created success")
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()
