@@ -20,6 +20,7 @@ async def consume(topic_name):
             "bootstrap.servers": BROKER_URL,
             "group.id": "0-4",
             "auto.offset.reset": "earliest",
+            "allow.auto.create.topics":False
         }
     )
 
