@@ -48,5 +48,5 @@ def main(topic_name):
         create_topic(client, topic_name)
         # print(f"Topic {topic_name} created success")
 
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main("udacity.ex.test_topic")

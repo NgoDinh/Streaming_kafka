@@ -4,3 +4,7 @@ kafka-topics --create --bootstrap-server broker:9092 --partitions 1 --replicatio
 kafka-console-producer --bootstrap-server localhost:9092 --topic Test
 kafka-topics --alter --bootstrap-server broker:9092 --partitions 3 --topic Test
 kafka-console-consumer --bootstrap-server localhost:9092 --topic "udacity.ex.kafka_schema"
+
+curl -s -XGET localhost:8083/connector-plugins|jq '.[].class'
+
+kafka-topics --list --bootstrap-server localhost:9092 
