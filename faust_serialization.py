@@ -16,7 +16,7 @@ class users(faust.Record):
 @dataclass
 class usersSerialization(faust.Record):
     user_name: str
-    signup_at:str
+    platform:str
 
 # create two topic for get and push transformed data
 app = faust.App("sample3", broker="kafka://localhost:9092") #setup app
@@ -34,10 +34,12 @@ ser_user_topic = app.topic(
 # for each user get from user topic will be filter out and just get user name and signup at then send it to another topic
 @app.agent(users_topic)
 async def clickevent(uss):
-    async for us in uss:
+    async for us in uss.filter(lambda x: x.platform != 'Mobile'):
+        # can add filter here
+        # uss.filter(lambda x: x.attribute condition):
         sanitized = usersSerialization(
             user_name=us.user_name,
-            signup_at=us.signup_at
+            platform=us.platform
         )
         await ser_user_topic.send(key=sanitized.user_name, value=sanitized)
 

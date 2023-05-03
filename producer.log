@@ -1,40 +1,16 @@
-2023-05-03 21:11:21 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 69406, "user_name": "Mark Jordan", "user_address": "534 Christian Harbors | Port Christopher | US", "platform": "Laptop", "signup_at": "2023-05-03 04:19:14"}
+2023-05-03 22:49:35 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 71503, "user_name": "Antonio Jenkins", "user_address": "18312 Cruz Greens Suite 821 | Tonyaburgh | AZ", "platform": "Laptop", "signup_at": "2023-05-03 04:33:04"}
 
-2023-05-03 21:11:27 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 79359, "user_name": "Theresa Sims", "user_address": "9485 Gonzalez Points | Port Robertshire | IT", "platform": "Mobile", "signup_at": "2023-05-02 08:04:02"}
+2023-05-03 22:49:41 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 24587, "user_name": "Megan Schwartz", "user_address": "3106 Shaun Ranch Apt. 361 | Brianahaven | NA", "platform": "Mobile", "signup_at": "2023-05-01 20:05:48"}
 
-2023-05-03 21:11:33 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 74194, "user_name": "Miranda Koch", "user_address": "2735 Swanson Burgs | Christopherview | FR", "platform": "Mobile", "signup_at": "2023-05-03 08:36:10"}
+2023-05-03 22:49:47 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 82578, "user_name": "Regina Price", "user_address": "470 Green Knoll Suite 584 | West Shawn | BB", "platform": "Mobile", "signup_at": "2023-05-01 21:32:45"}
 
-2023-05-03 21:11:39 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 36892, "user_name": "Dean Lyons", "user_address": "381 Blackwell Turnpike | Morrowstad | WS", "platform": "Tablet", "signup_at": "2023-05-03 08:50:42"}
+2023-05-03 22:49:53 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 96658, "user_name": "Brian Martin", "user_address": "69553 Alexandria Wall | Port Meganside | AF", "platform": "Mobile", "signup_at": "2023-05-02 11:41:21"}
 
-2023-05-03 21:11:45 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 97516, "user_name": "Brandon Schultz", "user_address": "748 Carter Port | Nicholasstad | VE", "platform": "Tablet", "signup_at": "2023-05-02 09:54:45"}
+2023-05-03 22:49:59 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 88994, "user_name": "Todd Walker MD", "user_address": "472 Curry Mission | East April | SI", "platform": "Tablet", "signup_at": "2023-05-03 04:19:13"}
 
-2023-05-03 21:11:51 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 55759, "user_name": "Holly Owens", "user_address": "688 Laura Isle Suite 227 | Johnton | FJ", "platform": "Laptop", "signup_at": "2023-05-01 05:14:12"}
+2023-05-03 22:50:05 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 68341, "user_name": "Shaun Sanchez", "user_address": "89615 Miller Well Suite 218 | Andrademouth | PG", "platform": "Tablet", "signup_at": "2023-05-03 08:01:28"}
 
-2023-05-03 21:11:57 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 86895, "user_name": "Thomas Sullivan", "user_address": "7341 Rebecca Glen | North Vanessaside | AM", "platform": "Laptop", "signup_at": "2023-05-02 20:31:00"}
+2023-05-03 22:50:11 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 56728, "user_name": "Jesse White", "user_address": "94209 Ortiz Way | Choifurt | NP", "platform": "Tablet", "signup_at": "2023-05-02 12:48:02"}
 
-2023-05-03 21:12:03 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 98815, "user_name": "Brittany Diaz", "user_address": "464 Rogers Forks | Lake Thomasstad | TR", "platform": "Laptop", "signup_at": "2023-05-02 11:57:12"}
-
-2023-05-03 21:12:09 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 96402, "user_name": "Lori Hicks", "user_address": "377 April Rapid | Andresfurt | AO", "platform": "Laptop", "signup_at": "2023-05-03 01:19:07"}
-
-2023-05-03 21:12:15 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 65331, "user_name": "Sandra Tucker", "user_address": "76526 Green Lake | Williamsburgh | TT", "platform": "Mobile", "signup_at": "2023-05-03 19:44:34"}
-
-2023-05-03 21:12:21 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 61678, "user_name": "Carol Clayton", "user_address": "3128 Shaffer Loaf | Christopherchester | SK", "platform": "Laptop", "signup_at": "2023-05-03 18:26:13"}
-
-2023-05-03 21:12:27 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 78859, "user_name": "Stephen Fisher", "user_address": "0594 Tiffany Pass Apt. 547 | North Angela | HN", "platform": "Tablet", "signup_at": "2023-05-01 04:08:51"}
-
-2023-05-03 21:12:33 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 77206, "user_name": "Caleb Lester PhD", "user_address": "47098 Frank Roads Suite 121 | North James | AM", "platform": "Laptop", "signup_at": "2023-05-01 11:55:47"}
-
-2023-05-03 21:12:39 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 94256, "user_name": "Joseph Hall", "user_address": "403 Amy Pike | Bethburgh | FR", "platform": "Laptop", "signup_at": "2023-05-03 11:46:33"}
-
-2023-05-03 21:12:45 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 94519, "user_name": "Scott Anderson", "user_address": "5692 Lee Isle | North Teresa | BI", "platform": "Laptop", "signup_at": "2023-05-02 14:53:24"}
-
-2023-05-03 21:12:52 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 40746, "user_name": "Vanessa Estrada", "user_address": "81874 Frye Prairie | South Keith | BG", "platform": "Mobile", "signup_at": "2023-05-02 01:06:34"}
-
-2023-05-03 21:12:58 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 25852, "user_name": "Victoria Daniel", "user_address": "961 Brooks Hills | South Hannah | MR", "platform": "Mobile", "signup_at": "2023-05-03 18:31:46"}
-
-2023-05-03 21:13:04 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 49075, "user_name": "Brenda Clark", "user_address": "0928 Ellison Brook | East Sarah | NZ", "platform": "Mobile", "signup_at": "2023-05-02 10:17:38"}
-
-2023-05-03 21:13:10 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 88120, "user_name": "Tonya Williams", "user_address": "159 Gill Summit Apt. 208 | Jamesburgh | IS", "platform": "Tablet", "signup_at": "2023-05-02 14:41:59"}
-
-2023-05-03 21:13:16 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 41520, "user_name": "Charles Kelley", "user_address": "2376 Sara Coves | Tonyton | KR", "platform": "Tablet", "signup_at": "2023-05-03 20:59:24"}
+2023-05-03 22:50:17 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 72362, "user_name": "Anthony Blackwell", "user_address": "79924 Schneider Course Apt. 471 | Richardsonborough | PE", "platform": "Laptop", "signup_at": "2023-05-02 07:52:53"}
 
