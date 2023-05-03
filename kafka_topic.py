@@ -20,9 +20,9 @@ def create_topic(client, topic_name):
                 replication_factor=1,
                 config={
                     "cleanup.policy": "delete",
-                    "compression.type": "lz4",
-                    "delete.retention.ms": "2000",
-                    "file.delete.delay.ms": "2000",
+                    # "compression.type": "lz4",
+                    # "delete.retention.ms": "2000",
+                    # "file.delete.delay.ms": "2000",
                 },
             )
         ]
@@ -49,4 +49,4 @@ def main(topic_name):
         # print(f"Topic {topic_name} created success")
 
 if __name__ == '__main__':
-    main("udacity.ex.test_topic")
+    main("udacity.ex.topic_faust")

@@ -42,7 +42,7 @@ def main():
            }
         m=json.dumps(data)
         p.poll(1)
-        p.produce('user-tracker',m.encode('utf-8'),callback=receipt)
+        p.produce('udacity.ex.topic_faust',m.encode('utf-8'),callback=receipt)
         p.flush()
         time.sleep(3)
         

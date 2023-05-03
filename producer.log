@@ -1,20 +1,20 @@
-2023-04-29 22:45:03 Produced message on topic user-tracker with value of {"user_id": 21411, "user_name": "Michelle Nguyen", "user_address": "12110 Lisa Spur | South Samantha | VN", "platform": "Mobile", "signup_at": "2023-04-09 22:21:18"}
+2023-05-03 18:12:51 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 34864, "user_name": "Carl Smith", "user_address": "048 Kirsten Extension | West Jamesville | CL", "platform": "Laptop", "signup_at": "2023-05-03 03:06:58"}
 
-2023-04-29 22:45:07 Produced message on topic user-tracker with value of {"user_id": 64196, "user_name": "Daniel Ruiz", "user_address": "4198 Johnson Drive | Connieside | AL", "platform": "Laptop", "signup_at": "2023-04-20 07:40:59"}
+2023-05-03 18:12:55 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 42143, "user_name": "Kimberly Rivera", "user_address": "4699 Tyler Coves Suite 555 | West Jasmineton | AZ", "platform": "Laptop", "signup_at": "2023-05-02 18:17:36"}
 
-2023-04-29 22:45:11 Produced message on topic user-tracker with value of {"user_id": 94443, "user_name": "Gary Vincent", "user_address": "6649 Aaron Cliffs | South Jamesburgh | SC", "platform": "Tablet", "signup_at": "2023-04-21 09:34:05"}
+2023-05-03 18:12:59 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 34344, "user_name": "Janice Mcfarland", "user_address": "0736 Lucas Unions Suite 567 | Josephport | BZ", "platform": "Tablet", "signup_at": "2023-05-01 04:49:40"}
 
-2023-04-29 22:45:15 Produced message on topic user-tracker with value of {"user_id": 24338, "user_name": "Amanda Nelson", "user_address": "4846 Mckenzie Crescent Suite 374 | Johnview | YE", "platform": "Mobile", "signup_at": "2023-04-06 19:40:58"}
+2023-05-03 18:13:03 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 33462, "user_name": "Terry Miller", "user_address": "310 Amber Underpass | Murrayfurt | PY", "platform": "Mobile", "signup_at": "2023-05-02 13:51:53"}
 
-2023-04-29 22:45:19 Produced message on topic user-tracker with value of {"user_id": 39838, "user_name": "Thomas Taylor", "user_address": "7523 Joseph Village | Starkstad | JM", "platform": "Tablet", "signup_at": "2023-04-13 06:27:27"}
+2023-05-03 18:13:07 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 21370, "user_name": "Roberta Johnston", "user_address": "783 Sanchez Mission | North Cindy | DZ", "platform": "Tablet", "signup_at": "2023-05-01 01:20:20"}
 
-2023-04-29 22:45:23 Produced message on topic user-tracker with value of {"user_id": 69208, "user_name": "Deborah Kim", "user_address": "9565 Melissa Rapid Suite 027 | Youngbury | ML", "platform": "Mobile", "signup_at": "2023-04-13 09:14:43"}
+2023-05-03 18:13:11 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 39292, "user_name": "Barbara Pennington", "user_address": "87155 Mcmahon Fork Suite 367 | West Catherineview | ET", "platform": "Tablet", "signup_at": "2023-05-01 16:27:17"}
 
-2023-04-29 22:45:27 Produced message on topic user-tracker with value of {"user_id": 81828, "user_name": "Dr. Anthony Skinner", "user_address": "4494 Jennifer Forks | North Jessica | MU", "platform": "Tablet", "signup_at": "2023-04-03 12:13:16"}
+2023-05-03 18:13:15 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 71734, "user_name": "Christie Adams", "user_address": "4999 Ellis Terrace | South Susanfort | FM", "platform": "Tablet", "signup_at": "2023-05-02 19:46:46"}
 
-2023-04-29 22:45:31 Produced message on topic user-tracker with value of {"user_id": 22539, "user_name": "Mrs. Samantha Moore", "user_address": "00082 Derek Islands Apt. 433 | Priceton | TW", "platform": "Laptop", "signup_at": "2023-04-23 21:19:16"}
+2023-05-03 18:13:19 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 50207, "user_name": "Krystal Martinez", "user_address": "779 Alex Heights | Danielsfurt | TJ", "platform": "Mobile", "signup_at": "2023-05-02 00:14:09"}
 
-2023-04-29 22:45:36 Produced message on topic user-tracker with value of {"user_id": 59331, "user_name": "Melissa Harris", "user_address": "26259 Ross Meadows | East Courtney | CV", "platform": "Mobile", "signup_at": "2023-04-05 12:01:45"}
+2023-05-03 18:13:23 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 53005, "user_name": "Jared Jones", "user_address": "017 Patrick Extension | West Michael | MA", "platform": "Tablet", "signup_at": "2023-05-02 18:45:40"}
 
-2023-04-29 22:45:40 Produced message on topic user-tracker with value of {"user_id": 60237, "user_name": "Melissa Cruz", "user_address": "8095 Williamson Manors Suite 716 | Martinezville | GN", "platform": "Tablet", "signup_at": "2023-04-25 00:22:36"}
+2023-05-03 18:13:27 Produced message on topic udacity.ex.topic_faust with value of {"user_id": 66689, "user_name": "Julie Williams", "user_address": "60596 Courtney Neck | Wardhaven | LA", "platform": "Laptop", "signup_at": "2023-05-02 14:00:02"}
 
