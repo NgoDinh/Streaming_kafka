@@ -32,7 +32,7 @@ def receipt(err,msg):
 print('Kafka Producer has been initiated...')
 
 def main():
-    for i in range(20):
+    for i in range(500):
         data={
            'user_id': fake.random_int(min=20000, max=100000),
            'user_name':fake.name(),

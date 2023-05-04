@@ -8,3 +8,4 @@ kafka-console-consumer --bootstrap-server localhost:9092 --topic "udacity.ex.kaf
 curl -s -XGET localhost:8083/connector-plugins|jq '.[].class'
 
 kafka-topics --list --bootstrap-server localhost:9092 
+kafka-console-consumer --bootstrap-server localhost:9092 --topic "udacity.ex.topic_faust_ser"
